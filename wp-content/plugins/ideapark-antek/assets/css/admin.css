@@ -1,0 +1,524 @@
+.ideapark-custom-field-panel .form-field {
+	display:        flex;
+	flex-wrap:      nowrap;
+	padding-top:    7px;
+	padding-bottom: 7px;
+	align-items:    baseline;
+}
+
+.ideapark-custom-field-panel input[type=checkbox] {
+	margin-top: 0;
+}
+
+.ideapark-custom-field-panel label {
+	margin-right:  5px;
+	padding-right: 10px;
+}
+
+.ideapark-custom-field-panel .form-label {
+	flex:          0 0 auto;
+	width:         170px;
+	border-bottom: dashed 1px #ddd;
+}
+
+.ideapark-custom-field-panel .color-picker {
+	display: inline-block;
+	width:   80px;
+}
+
+.rwmb-text[size="40"] {
+	width: 100% !important;
+}
+
+.rwmb-input input[type="number"] {
+	padding-right: 0;
+}
+
+.rwmb-input input[size] {
+	--x:   1;
+	width: calc(40px * var(--x));
+}
+
+.rwmb-input input[size="2"] {
+	--x: 2;
+}
+
+.rwmb-input input[size="3"] {
+	--x: 3;
+}
+
+.rwmb-input input[size="4"] {
+	--x: 4;
+}
+
+.rwmb-input input[size="5"] {
+	--x: 5;
+}
+
+.rwmb-input input[size="6"] {
+	--x: 6;
+}
+
+#poststuff .inside {
+	margin-top: 15px;
+}
+
+.ideapark-short-input input {
+	width: 70px;
+}
+
+.column-icon_image,
+.column-max,
+.column-type,
+.column-rental-price,
+.column-delivery,
+.column-stock,
+.column-show_on_page,
+.column-show_in_list,
+.column-is_numeric {
+	text-align: center !important;
+}
+
+@media (min-width: 1200px) {
+	.fixed .column-top {
+		width: 74px;
+	}
+
+	.fixed .column-icon_image,
+	.fixed .column-max,
+	.fixed .column-type,
+	.fixed .column-rental-price,
+	.fixed .column-delivery,
+	.fixed .column-stock,
+	.fixed .column-show_on_page,
+	.fixed .column-show_in_list,
+	.fixed .column-is_numeric {
+		width: 80px;
+	}
+
+	.fixed .column-badge {
+		width: 80px;
+	}
+}
+
+table.SimpleCalendar {
+	border-collapse: collapse;
+}
+
+table.SimpleCalendar th {
+	background: #C9E9F0;
+	color:      #0092B4;
+	font-size:  11px;
+	padding:    3px;
+	border:     1px solid #bbb;
+	border-top: none;
+}
+
+table.SimpleCalendar tbody td {
+	vertical-align: top;
+	width:          90px;
+	height:         90px;
+	border:         1px solid #bbb;
+	background:     #e6e6e6;
+}
+
+table.SimpleCalendar tbody td time {
+	font-size:   .7em;
+	display:     block;
+	background:  white;
+	padding:     2px;
+	text-align:  right;
+	font-weight: bold;
+}
+
+table.SimpleCalendar tbody td.SCsuffix, table.SimpleCalendar tbody td.SCprefix {
+	background: white;
+}
+
+table.SimpleCalendar tbody td div.event {
+	font-size:     .75em;
+	padding:       5px;
+	line-height:   1.2;
+	border-bottom: 1px solid #bbb;
+	background:    #858585;
+	color:         white;
+}
+
+table.SimpleCalendar tbody td div.event a {
+	color: white;
+}
+
+table.SimpleCalendar tbody td.today {
+	background: #d2d2d2;
+}
+
+.ideapark-booking-select__wrap {
+	margin-bottom: 15px;
+}
+
+#ideapark-antek-booking {
+	outline:            none;
+	border:             0;
+	padding:            0;
+	box-shadow:         none;
+	appearance:         none;
+	-webkit-appearance: none;
+}
+
+.ideapark-antek-booking {
+	position: relative;
+}
+
+.ideapark-antek-booking-wrap .rwmb-input {
+	float: none;
+}
+
+.ideapark-antek-booking-wrap.cal-loading:after {
+	content:    '';
+	display:    block;
+	position:   absolute;
+	left:       0;
+	right:      0;
+	top:        0;
+	bottom:     0;
+	background: #FFF;
+	opacity:    0.7;
+	z-index:    10000;
+}
+
+.ideapark-antek-booking .daterangepicker {
+	position:       relative !important;
+	top:            auto !important;
+	left:           auto !important;
+	margin-top:     0;
+	border:         none;
+	clear:          both;
+	overflow:       hidden;
+	padding-bottom: 40px;
+	margin-bottom:  -40px;
+	background:     transparent;
+	z-index:        0;
+}
+
+.ideapark-antek-booking .daterangepicker:before,
+.ideapark-antek-booking .daterangepicker:after {
+	display: none;
+}
+
+.daterangepicker td {
+	position: relative;
+	border:   none !important;
+}
+
+.daterangepicker.type-night td.start-date {
+	border-radius: 12px 0 0 12px !important;
+}
+
+.daterangepicker.type-night td.end-date {
+	border-radius: 0 12px 12px 0 !important;
+}
+
+.daterangepicker.type-night td.start-date.end-date {
+	border-radius: 12px 12px 12px 12px !important;
+}
+
+.daterangepicker td.holiday:after,
+.daterangepicker td.cleaning:after,
+.daterangepicker td.first:before,
+.daterangepicker td.last:before,
+.daterangepicker td.full:before,
+.daterangepicker td.first-order:after,
+.daterangepicker td.last-order:after,
+.daterangepicker td.full-order:after,
+.daterangepicker td.split-order:after,
+.daterangepicker td.split-order:before,
+.daterangepicker td.not-avail:before {
+	content:  '';
+	display:  block;
+	position: absolute;
+	left:     0;
+	right:    0;
+	top:      0;
+	bottom:   0;
+	opacity:  0.5;
+}
+
+.daterangepicker .calendar-table th,
+.daterangepicker .calendar-table td {
+	cursor: default !important;
+}
+
+.daterangepicker td.cleaning {
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSIxIiB2aWV3Qm94PSIwIDAgMTAgMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJyZ2JhKDg1LCA4NSwgODUsIDAuNCkiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PHBhdGggZD0iTTAgMGgxdjFIMHpNNSAwaDF2MUg1eiIvPjwvZz48L3N2Zz4=");
+}
+
+.daterangepicker .not-avail:not(.active):not(.in-range) {
+	background-color:      rgba(170, 170, 170, 0.2) !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius:    0 !important;
+	border-radius:         0 !important;
+}
+
+.daterangepicker td.first:before,
+.daterangepicker td.last:before,
+.daterangepicker td.full:before {
+	background-color: rgba(255, 0, 0, 0.2);
+}
+
+.daterangepicker td.first-order:after,
+.daterangepicker td.last-order:after,
+.daterangepicker td.full-order:after,
+.daterangepicker td.split-order:after,
+.daterangepicker td.split-order:before {
+	background-color: rgba(0, 255, 214, 0.4);
+}
+
+.daterangepicker td.holiday:after {
+	opacity:          1;
+	background-color: rgba(170, 170, 170, 0.4) !important
+}
+
+.daterangepicker.type-night td.first:before,
+.daterangepicker.type-night td.first-order:after,
+.daterangepicker.type-night td.split-order:before {
+	left:          55%;
+	border-radius: 12px 0 0 12px;
+}
+
+.daterangepicker.type-night td.last:before,
+.daterangepicker.type-night td.last-order:after,
+.daterangepicker.type-night td.split-order:after {
+	right:         55%;
+	border-radius: 0 12px 12px 0;
+}
+
+.ideapark-antek-inline-button {
+	display: inline-block;
+}
+
+.ideapark-antek-inline-button.rwmb-field:not(:last-of-type) {
+	margin-right: 10px;
+}
+
+.ideapark-antek-inline-button .rwmb-input {
+	display: inline-block;
+	width:   auto;
+	float:   none;
+}
+
+.ideapark-antek-hint {
+	position:   absolute;
+	left:       0;
+	top:        26px;
+	margin-top: 5px;
+	background: #666;
+	color:      #fff;
+	padding:    3px 10px;
+	font-size:  12px;
+	z-index:    100;
+}
+
+.ideapark-antek-hint a {
+	color: #fff;
+}
+
+.ideapark-antek-hint a:hover {
+	opacity: 0.7;
+}
+
+.ideapark-antek-hint:after {
+	content:  '';
+	display:  block;
+	position: absolute;
+	left:     0;
+	right:    0;
+	top:      -5px;
+	width:    100%;
+	height:   5px;
+}
+
+.ideapark-antek-hint:before {
+	content:             '';
+	display:             block;
+	position:            absolute;
+	left:                10px;
+	top:                 -10px;
+	border:              solid 5px transparent;
+	border-bottom-color: #666;
+}
+
+ul.c-meta-options {
+	margin: 0;
+}
+
+.ideapark-antek-cond-days li {
+	margin-right: 10px !important;
+	margin-top:   5px !important;
+}
+
+.ideapark-antek-cond-days li label {
+	display:        flex;
+	flex-direction: column;
+	align-items:    center;
+	text-align:     center;
+	font-size:      12px;
+}
+
+.ideapark-antek-cond-days li input {
+	margin-right:  0;
+	margin-bottom: 4px;
+}
+
+.ideapark-antek-condition .rwmb-input {
+	display:        flex;
+	flex-direction: column;
+	align-items:    flex-start;
+}
+
+.ideapark-antek-condition .rwmb-clone {
+	display:        inline-flex;
+	flex-direction: column;
+	padding-right:  40px;
+	margin-bottom:  0;
+}
+
+.ideapark-antek-condition .row {
+	display:      inline-flex;
+	flex-wrap:    wrap;
+	margin-left:  -15px;
+	margin-right: -15px;
+}
+
+.ideapark-antek-condition .row p {
+	flex:          0 0 auto;
+	display:       inline-block;
+	margin-left:   15px;
+	margin-right:  15px;
+	margin-top:    0;
+	margin-bottom: 12px;
+	max-width:     100%;
+}
+
+.ideapark-antek-condition .row p > label {
+	display: block;
+}
+
+.ideapark-antek-condition .rwmb-button.remove-clone {
+	top:    unset;
+	bottom: 18px;
+}
+
+.ideapark-sortable-notice {
+	margin-top: 5px;
+	font-size:  13px;
+	font-style: italic;
+}
+
+.rwmb-label > label {
+	padding-right: 5px;
+	hyphens:       auto;
+	-ms-word-wrap: break-word;
+	word-wrap:     break-word;
+}
+
+.rwmb-input .description {
+	margin-left: 10px;
+	display:     inline-block;
+}
+
+#sample-permalink {
+	-ms-word-wrap: break-word;
+	word-wrap:     break-word;
+}
+
+.h-invisible {
+	z-index:        1;
+	opacity:        0;
+	visibility:     hidden;
+	width:          1px;
+	height:         1px;
+	position:       absolute;
+	pointer-events: none;
+}
+
+.is-side .rwmb-input select {
+	max-width: calc(100% - 34px) !important;
+}
+
+.post-type-catalog table.wp-list-table td.column-thumb img {
+	margin:         0;
+	width:          auto;
+	height:         auto;
+	max-width:      40px;
+	max-height:     40px;
+	vertical-align: middle;
+}
+
+.post-type-catalog table.wp-list-table .column-thumb {
+	width:       52px;
+	text-align:  center;
+	white-space: nowrap;
+}
+
+
+#_customize-input-holidays {
+	visibility: hidden;
+	z-index:    -1;
+	position:   absolute;
+}
+
+.ideapark-antek-holiday {
+	position: relative;
+}
+
+.ideapark-antek-booking.ideapark-antek-holiday .daterangepicker .drp-calendar {
+	padding: 0;
+}
+
+.ideapark-antek-holiday-buttons {
+	margin-top:   10px;
+	margin-left:  -5px;
+	margin-right: -5px;
+	display:      flex;
+	width:        calc(100% - 10px);
+}
+
+.ideapark-antek-holiday-buttons > * {
+	flex:         1 1 auto;
+	width:        50%;
+	margin-left:  5px !important;
+	margin-right: 5px !important;;
+	position:     relative;
+	z-index:      1;
+}
+
+
+@media (max-width: 782px) {
+
+	.rwmb-input-list li {
+		min-height: 25px !important;
+		margin-top: 6px !important;
+	}
+}
+
+@media (max-width: 413px) {
+
+	.ideapark-custom-field-panel .form-field {
+		display: block;
+	}
+
+	.ideapark-custom-field-panel .form-label {
+		display:       block;
+		border-bottom: none;
+		margin-bottom: 3px;
+	}
+
+	.rwmb-label {
+		float: none !important;
+		width: 100% !important;
+	}
+
+	.rwmb-label ~ .rwmb-input {
+		width: 100% !important;
+	}
+}

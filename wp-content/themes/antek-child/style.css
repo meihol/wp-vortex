@@ -1,0 +1,21 @@
+/*
+Theme Name: Antek-Child
+Theme URI: https://parkofideas.com/antek/
+Text Domain: antek-child
+Description: Auto Camping WordPress Theme
+License: GNU General Public License v2.0 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0
+Template: antek
+Author: ideapark
+Author URI: https://ideapark.com/antek-documentation/
+Tags: right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, theme-options, translation-ready
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+ul.products li.product .product-price-wrap,
+ul.products li.product .woocommerce-loop-product__excerpt{
+    display:none;
+}

@@ -1,0 +1,2375 @@
+# Copyright (C) 2023 Antek Core
+# This file is distributed under the same license as the Antek Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Antek Core 4.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ideapark-antek\n"
+"POT-Creation-Date: 2023-04-10 05:49:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: elementor/accordion.php:45
+msgid "Antek Accordion"
+msgstr ""
+
+#: elementor/accordion.php:101 elementor/counter.php:116
+#: elementor/filter.php:56 elementor/reviews.php:106
+msgid "Settings"
+msgstr ""
+
+#: elementor/accordion.php:108 elementor/slider.php:313
+msgid "Custom title font size"
+msgstr ""
+
+#: elementor/accordion.php:130
+msgid "Accordion items"
+msgstr ""
+
+#: elementor/accordion.php:139 elementor/counter.php:182
+#: elementor/filter.php:63 elementor/heading.php:105 elementor/heading.php:112
+#: elementor/heading.php:227 elementor/icon-list-1.php:111
+#: elementor/offer-list.php:151 elementor/slider.php:455
+#: elementor/steps.php:125
+msgid "Title"
+msgstr ""
+
+#: elementor/accordion.php:142 elementor/icon-list-1.php:115
+#: elementor/slider.php:457 elementor/slider.php:479 elementor/steps.php:129
+msgid "Enter title"
+msgstr ""
+
+#: elementor/accordion.php:152 elementor/page-header.php:56
+msgid "Content"
+msgstr ""
+
+#: elementor/accordion.php:166
+msgid "Title #1"
+msgstr ""
+
+#: elementor/accordion.php:167 elementor/accordion.php:171
+#: elementor/accordion.php:175 elementor/counter.php:295
+#: elementor/counter.php:300 elementor/counter.php:305
+#: elementor/counter.php:310 elementor/offer-list.php:221
+#: elementor/offer-list.php:226 elementor/offer-list.php:231
+#: elementor/reviews.php:281 elementor/reviews.php:288
+#: elementor/reviews.php:295 elementor/steps.php:141
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit."
+msgstr ""
+
+#: elementor/accordion.php:170
+msgid "Title #2"
+msgstr ""
+
+#: elementor/accordion.php:174
+msgid "Title #3"
+msgstr ""
+
+#: elementor/button.php:23
+msgid "Antek Button"
+msgstr ""
+
+#: elementor/button.php:58
+msgid "Button"
+msgstr ""
+
+#: elementor/button.php:65 elementor/woocommerce-carousel.php:111
+#: ideapark-antek.php:98 ideapark-antek.php:740 ideapark-antek.php:965
+msgid "Type"
+msgstr ""
+
+#: elementor/button.php:69 elementor/heading.php:144 elementor/slider.php:173
+#: elementor/slider.php:503
+msgid "Default"
+msgstr ""
+
+#: elementor/button.php:70 elementor/slider.php:504
+msgid "Outline"
+msgstr ""
+
+#: elementor/button.php:79
+msgid "Text"
+msgstr ""
+
+#: elementor/button.php:81 elementor/button.php:82
+msgid "Click here"
+msgstr ""
+
+#: elementor/button.php:89 elementor/counter.php:200 elementor/heading.php:125
+#: elementor/icon-list-1.php:139 elementor/offer-list.php:205
+#: elementor/reviews.php:263 elementor/steps.php:152 elementor/team.php:195
+#: elementor/wrapper-link-module.php:55
+msgid "Link"
+msgstr ""
+
+#: elementor/button.php:94 elementor/counter.php:206
+#: elementor/icon-list-1.php:145 elementor/offer-list.php:208
+#: elementor/reviews.php:266 elementor/social.php:215 elementor/steps.php:158
+#: elementor/team.php:198 elementor/team.php:217 elementor/team.php:227
+#: elementor/team.php:237 elementor/team.php:247 elementor/team.php:257
+#: elementor/team.php:267 elementor/team.php:277 elementor/team.php:287
+#: elementor/team.php:297 elementor/team.php:307 elementor/team.php:317
+#: elementor/team.php:327 elementor/team.php:337
+#: elementor/wrapper-link-module.php:62
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/button.php:104
+msgid "Arrow"
+msgstr ""
+
+#: elementor/button.php:107 elementor/categories.php:125
+#: elementor/categories.php:167 elementor/counter.php:265
+#: elementor/news.php:156 elementor/news.php:170
+#: elementor/product-carousel.php:166 elementor/product-carousel.php:177
+#: elementor/product-carousel.php:188 elementor/product-carousel.php:225
+#: elementor/reviews.php:129 elementor/reviews.php:140 elementor/slider.php:218
+#: elementor/slider.php:229 elementor/woocommerce-carousel.php:168
+#: elementor/woocommerce-carousel.php:179
+msgid "Show"
+msgstr ""
+
+#: elementor/button.php:108 elementor/categories.php:168
+#: elementor/counter.php:266 elementor/news.php:157 elementor/news.php:171
+#: elementor/product-carousel.php:167 elementor/product-carousel.php:178
+#: elementor/product-carousel.php:189 elementor/product-carousel.php:226
+#: elementor/reviews.php:130 elementor/reviews.php:141 elementor/slider.php:219
+#: elementor/slider.php:230 elementor/woocommerce-carousel.php:169
+#: elementor/woocommerce-carousel.php:180
+msgid "Hide"
+msgstr ""
+
+#: elementor/button.php:116 elementor/heading.php:186 elementor/social.php:174
+msgid "Alignment"
+msgstr ""
+
+#: elementor/button.php:120 elementor/heading.php:190 elementor/heading.php:276
+#: elementor/max-width-module.php:86 elementor/social.php:178
+msgid "Left"
+msgstr ""
+
+#: elementor/button.php:124 elementor/heading.php:194 elementor/heading.php:280
+#: elementor/max-width-module.php:90 elementor/social.php:182
+msgid "Center"
+msgstr ""
+
+#: elementor/button.php:128 elementor/heading.php:198 elementor/heading.php:284
+#: elementor/max-width-module.php:94 elementor/social.php:186
+msgid "Right"
+msgstr ""
+
+#: elementor/button.php:132 elementor/heading.php:202 elementor/social.php:190
+msgid "Justified"
+msgstr ""
+
+#: elementor/button.php:145 elementor/counter.php:123
+#: elementor/offer-list.php:125 elementor/reviews.php:160
+#: elementor/slider.php:369 elementor/team.php:123
+msgid "Accent Color"
+msgstr ""
+
+#: elementor/button.php:158
+msgid "Button ID"
+msgstr ""
+
+#: elementor/button.php:164
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: elementor/button.php:166
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: elementor/categories.php:47 elementor/categories.php:104
+#: elementor/product-carousel.php:208 elementor/shop-categories.php:96
+#: ideapark-antek.php:694 ideapark-antek.php:1349 ideapark-antek.php:1798
+msgid "Categories"
+msgstr ""
+
+#: elementor/categories.php:112 elementor/news.php:140
+#: elementor/reviews.php:113 elementor/slider.php:113
+msgid "Layout"
+msgstr ""
+
+#: elementor/categories.php:116
+msgid "Image list"
+msgstr ""
+
+#: elementor/categories.php:117
+msgid "Icon list"
+msgstr ""
+
+#: elementor/categories.php:129
+msgid "Category icon"
+msgstr ""
+
+#: elementor/categories.php:130
+msgid "Category image"
+msgstr ""
+
+#: elementor/categories.php:141 elementor/slider.php:476
+msgid "Button text"
+msgstr ""
+
+#: elementor/categories.php:144 elementor/slider.php:468
+msgid "Enter text"
+msgstr ""
+
+#: elementor/categories.php:145
+msgid "View Equipments"
+msgstr ""
+
+#: elementor/counter.php:46
+msgid "Counter"
+msgstr ""
+
+#: elementor/counter.php:134
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/counter.php:146 elementor/heading.php:235
+#: elementor/reviews.php:148 elementor/slider.php:342
+msgid "Text Color"
+msgstr ""
+
+#: elementor/counter.php:159 elementor/steps.php:104
+msgid "Items"
+msgstr ""
+
+#: elementor/counter.php:168 elementor/icon-list-1.php:125
+#: elementor/slider.php:421 ideapark-antek.php:1053
+msgid "Icon"
+msgstr ""
+
+#: elementor/counter.php:184 elementor/heading.php:114
+#: elementor/offer-list.php:154
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/counter.php:191 elementor/slider.php:465
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/counter.php:193
+msgid "Enter your subtitle"
+msgstr ""
+
+#: elementor/counter.php:213 elementor/heading.php:295
+msgid "Starting Number"
+msgstr ""
+
+#: elementor/counter.php:222
+msgid "Ending Number"
+msgstr ""
+
+#: elementor/counter.php:231
+msgid "Number Prefix"
+msgstr ""
+
+#: elementor/counter.php:241
+msgid "Number Suffix"
+msgstr ""
+
+#: elementor/counter.php:244
+msgid "Plus"
+msgstr ""
+
+#: elementor/counter.php:251
+msgid "Animation Duration"
+msgstr ""
+
+#: elementor/counter.php:262
+msgid "Thousand Separator"
+msgstr ""
+
+#: elementor/counter.php:273
+msgid "Separator"
+msgstr ""
+
+#: elementor/counter.php:294 elementor/icon-list-1.php:157
+#: elementor/steps.php:170
+msgid "List Item #1"
+msgstr ""
+
+#: elementor/counter.php:299 elementor/icon-list-1.php:162
+#: elementor/steps.php:174
+msgid "List Item #2"
+msgstr ""
+
+#: elementor/counter.php:304 elementor/icon-list-1.php:167
+#: elementor/steps.php:178
+msgid "List Item #3"
+msgstr ""
+
+#: elementor/counter.php:309
+msgid "List Item #4"
+msgstr ""
+
+#: elementor/elementor.php:76
+msgid "Antek Widgets"
+msgstr ""
+
+#: elementor/elementor.php:176 elementor/elementor.php:181
+#: includes/class-ideapark.php:341 includes/class-ideapark.php:346
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: elementor/filter.php:23
+msgid "Filter"
+msgstr ""
+
+#: elementor/filter.php:66 elementor/slider.php:129
+msgid "Find The Right Equipment"
+msgstr ""
+
+#: elementor/filter.php:73
+msgid "Custom Text Color"
+msgstr ""
+
+#: elementor/filter.php:81
+msgid "Custom Background Color"
+msgstr ""
+
+#: elementor/filter.php:91
+msgid "Global filter settings"
+msgstr ""
+
+#: elementor/heading.php:46
+msgid "Antek Heading"
+msgstr ""
+
+#: elementor/heading.php:115
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: elementor/heading.php:140
+msgid "Size"
+msgstr ""
+
+#: elementor/heading.php:145
+msgid "Medium"
+msgstr ""
+
+#: elementor/heading.php:146
+msgid "Large"
+msgstr ""
+
+#: elementor/heading.php:154
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor/heading.php:174
+msgid "Divider"
+msgstr ""
+
+#: elementor/heading.php:177 elementor/page-header.php:75
+#: elementor/product-carousel.php:141 elementor/product-carousel.php:153
+#: elementor/slider.php:186 elementor/slider.php:240 elementor/social.php:66
+#: elementor/wrapper-link-module.php:45 elementor/wrapper-link-module.php:75
+#: ideapark-antek.php:3597 ideapark-antek.php:3766
+msgid "Yes"
+msgstr ""
+
+#: elementor/heading.php:178 elementor/page-header.php:76
+#: elementor/product-carousel.php:142 elementor/product-carousel.php:154
+#: elementor/slider.php:187 elementor/slider.php:241 elementor/social.php:67
+#: elementor/wrapper-link-module.php:46 elementor/wrapper-link-module.php:76
+msgid "No"
+msgstr ""
+
+#: elementor/heading.php:216
+msgid "View"
+msgstr ""
+
+#: elementor/heading.php:248
+msgid "Max width"
+msgstr ""
+
+#: elementor/heading.php:272
+msgid "Block alignment"
+msgstr ""
+
+#: elementor/heading.php:324
+msgid "Blend Mode"
+msgstr ""
+
+#: elementor/heading.php:327
+msgid "Normal"
+msgstr ""
+
+#: elementor/icon-list-1.php:46 elementor/icon-list-1.php:102
+msgid "Icon List"
+msgstr ""
+
+#: elementor/icon-list-1.php:114 elementor/steps.php:128
+msgid "List Item"
+msgstr ""
+
+#: elementor/max-width-module.php:38
+msgid "Max Width"
+msgstr ""
+
+#: elementor/max-width-module.php:45
+msgid "Max width of the block"
+msgstr ""
+
+#: elementor/max-width-module.php:75
+msgid "Columns Align"
+msgstr ""
+
+#: elementor/max-width-module.php:82
+msgid "Column alignment"
+msgstr ""
+
+#: elementor/max-width-module.php:98
+msgid "Space between"
+msgstr ""
+
+#: elementor/news.php:50 elementor/news.php:106
+msgid "News"
+msgstr ""
+
+#: elementor/news.php:113
+msgid "News count"
+msgstr ""
+
+#: elementor/news.php:121
+msgid "All"
+msgstr ""
+
+#: elementor/news.php:130 ideapark-antek.php:695 ideapark-antek.php:1719
+msgid "Category"
+msgstr ""
+
+#: elementor/news.php:144
+msgid "Grid"
+msgstr ""
+
+#: elementor/news.php:145
+msgid "Carousel"
+msgstr ""
+
+#: elementor/news.php:153 elementor/product-carousel.php:174
+#: elementor/reviews.php:126 elementor/slider.php:215
+#: elementor/woocommerce-carousel.php:165
+msgid "Arrows"
+msgstr ""
+
+#: elementor/news.php:167 elementor/product-carousel.php:185
+#: elementor/reviews.php:137 elementor/slider.php:226
+#: elementor/woocommerce-carousel.php:176
+msgid "Navigation dots"
+msgstr ""
+
+#: elementor/news.php:181 elementor/offer-list.php:113
+#: elementor/product-carousel.php:196 elementor/slider.php:357
+#: elementor/slider.php:512 elementor/social.php:74 elementor/team.php:111
+#: elementor/woocommerce-carousel.php:187
+msgid "Background Color"
+msgstr ""
+
+#: elementor/offer-list.php:50 elementor/offer-list.php:106
+msgid "Offers"
+msgstr ""
+
+#: elementor/offer-list.php:140 elementor/reviews.php:197
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/offer-list.php:153
+msgid "This is the heading"
+msgstr ""
+
+#: elementor/offer-list.php:162 elementor/steps.php:139
+msgid "Description"
+msgstr ""
+
+#: elementor/offer-list.php:164
+msgid "Click edit button to change this text"
+msgstr ""
+
+#: elementor/offer-list.php:165 elementor/steps.php:142
+msgid "Enter your description"
+msgstr ""
+
+#: elementor/offer-list.php:175
+msgid "Price prefix"
+msgstr ""
+
+#: elementor/offer-list.php:178
+msgid "Enter prefix"
+msgstr ""
+
+#: elementor/offer-list.php:185 ideapark-antek.php:746 ideapark-antek.php:976
+#: ideapark-antek.php:989 ideapark-antek.php:1548 ideapark-antek.php:1796
+msgid "Price"
+msgstr ""
+
+#: elementor/offer-list.php:195
+msgid "Price postfix"
+msgstr ""
+
+#: elementor/offer-list.php:198
+msgid "Enter postfix"
+msgstr ""
+
+#: elementor/offer-list.php:220
+msgid "Offer #1"
+msgstr ""
+
+#: elementor/offer-list.php:225
+msgid "Offer #2"
+msgstr ""
+
+#: elementor/offer-list.php:230
+msgid "Offer #3"
+msgstr ""
+
+#: elementor/page-header.php:23
+msgid "Page Header"
+msgstr ""
+
+#: elementor/page-header.php:63
+msgid "Custom Title"
+msgstr ""
+
+#: elementor/page-header.php:65
+msgid "Type your title text here"
+msgstr ""
+
+#: elementor/page-header.php:72
+msgid "Hide breadcrumbs"
+msgstr ""
+
+#: elementor/page-header.php:84
+msgid "Global color and background settings"
+msgstr ""
+
+#: elementor/page-header.php:86 elementor/page-header.php:95
+msgid "Manage"
+msgstr ""
+
+#: elementor/page-header.php:93
+msgid "Custom color and background settings"
+msgstr ""
+
+#: elementor/product-carousel.php:47
+msgid "Product carousel"
+msgstr ""
+
+#: elementor/product-carousel.php:104
+msgid "Product Carousel"
+msgstr ""
+
+#: elementor/product-carousel.php:111 elementor/woocommerce-carousel.php:121
+msgid "Sort"
+msgstr ""
+
+#: elementor/product-carousel.php:115 elementor/woocommerce-carousel.php:125
+msgid "Default sorting"
+msgstr ""
+
+#: elementor/product-carousel.php:116
+msgid "Sort by rand"
+msgstr ""
+
+#: elementor/product-carousel.php:117
+msgid "Sort by latest"
+msgstr ""
+
+#: elementor/product-carousel.php:118
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: elementor/product-carousel.php:119
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: elementor/product-carousel.php:127 elementor/woocommerce-carousel.php:153
+msgid "Products in carousel"
+msgstr ""
+
+#: elementor/product-carousel.php:139
+msgid "Category filter"
+msgstr ""
+
+#: elementor/product-carousel.php:151
+msgid "Show only on sale"
+msgstr ""
+
+#: elementor/product-carousel.php:163 ideapark-antek.php:765
+#: ideapark-antek.php:1636
+msgid "Details"
+msgstr ""
+
+#: elementor/reviews.php:50
+msgid "Reviews carousel"
+msgstr ""
+
+#: elementor/reviews.php:117
+msgid "1 per row"
+msgstr ""
+
+#: elementor/reviews.php:118
+msgid "2 per row"
+msgstr ""
+
+#: elementor/reviews.php:172
+msgid "Border Color"
+msgstr ""
+
+#: elementor/reviews.php:187
+msgid "Reviews"
+msgstr ""
+
+#: elementor/reviews.php:208
+msgid "Reviewer name"
+msgstr ""
+
+#: elementor/reviews.php:210
+msgid "Enter name"
+msgstr ""
+
+#: elementor/reviews.php:218
+msgid "Reviewer occupation"
+msgstr ""
+
+#: elementor/reviews.php:220
+msgid "Enter occupation"
+msgstr ""
+
+#: elementor/reviews.php:228
+msgid "Review title"
+msgstr ""
+
+#: elementor/reviews.php:230 elementor/reviews.php:241
+msgid "Enter review text"
+msgstr ""
+
+#: elementor/reviews.php:239
+msgid "Review text"
+msgstr ""
+
+#: elementor/reviews.php:251
+msgid "Rating"
+msgstr ""
+
+#: elementor/reviews.php:278 elementor/team.php:349
+msgid "Name #1"
+msgstr ""
+
+#: elementor/reviews.php:279 elementor/reviews.php:286
+#: elementor/reviews.php:293
+msgid "Rental Customer"
+msgstr ""
+
+#: elementor/reviews.php:280 elementor/reviews.php:287
+#: elementor/reviews.php:294
+msgid "Consectetur adipiscing elit."
+msgstr ""
+
+#: elementor/reviews.php:285 elementor/team.php:353
+msgid "Name #2"
+msgstr ""
+
+#: elementor/reviews.php:292 elementor/team.php:357
+msgid "Name #3"
+msgstr ""
+
+#: elementor/shop-categories.php:37
+msgid "Shop Categories"
+msgstr ""
+
+#: elementor/shop-categories.php:100
+msgid "Shop"
+msgstr ""
+
+#: elementor/shop-categories.php:143
+msgid "Product Category"
+msgstr ""
+
+#: elementor/slider.php:50
+msgid "Slider Carousel"
+msgstr ""
+
+#: elementor/slider.php:106
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/slider.php:117
+msgid "Centered"
+msgstr ""
+
+#: elementor/slider.php:118
+msgid "With filter"
+msgstr ""
+
+#: elementor/slider.php:126
+msgid "Filter title"
+msgstr ""
+
+#: elementor/slider.php:139
+msgid "Max width of the text block"
+msgstr ""
+
+#: elementor/slider.php:169
+msgid "Animation"
+msgstr ""
+
+#: elementor/slider.php:174
+msgid "Fade"
+msgstr ""
+
+#: elementor/slider.php:175
+msgid "Fade and Scale"
+msgstr ""
+
+#: elementor/slider.php:183
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/slider.php:194
+msgid "Autoplay Timeout (sec)"
+msgstr ""
+
+#: elementor/slider.php:237 elementor/woocommerce-carousel.php:126
+msgid "Random sorting"
+msgstr ""
+
+#: elementor/slider.php:248
+msgid "Slider height"
+msgstr ""
+
+#: elementor/slider.php:271
+msgid "Image opacity"
+msgstr ""
+
+#: elementor/slider.php:292
+msgid "Custom subtitle font size"
+msgstr ""
+
+#: elementor/slider.php:293 elementor/slider.php:466
+msgid "Text above or below the title"
+msgstr ""
+
+#: elementor/slider.php:335
+msgid "Colors"
+msgstr ""
+
+#: elementor/slider.php:389
+msgid "Slides"
+msgstr ""
+
+#: elementor/slider.php:399
+msgid "Image (Desktop)"
+msgstr ""
+
+#: elementor/slider.php:410
+msgid "Image (Mobile)"
+msgstr ""
+
+#: elementor/slider.php:432
+msgid "Icon width"
+msgstr ""
+
+#: elementor/slider.php:477
+msgid "Read more"
+msgstr ""
+
+#: elementor/slider.php:487
+msgid "Button link"
+msgstr ""
+
+#: elementor/slider.php:499
+msgid "Button type"
+msgstr ""
+
+#: elementor/slider.php:525
+msgid "Custom Color"
+msgstr ""
+
+#: elementor/social.php:23
+msgid "Social"
+msgstr ""
+
+#: elementor/social.php:56
+msgid "Social icons"
+msgstr ""
+
+#: elementor/social.php:63
+msgid "Rounded"
+msgstr ""
+
+#: elementor/social.php:88
+msgid "Background Color on Hover"
+msgstr ""
+
+#: elementor/social.php:102
+msgid "Icons Color"
+msgstr ""
+
+#: elementor/social.php:113
+msgid "Icons Color on Hover"
+msgstr ""
+
+#: elementor/social.php:124
+msgid "Icon size"
+msgstr ""
+
+#: elementor/social.php:150
+msgid "Space"
+msgstr ""
+
+#: elementor/social.php:202 elementor/team.php:205
+msgid "Social links"
+msgstr ""
+
+#: elementor/social.php:212
+msgid "%s url"
+msgstr ""
+
+#: elementor/steps.php:47
+msgid "Steps"
+msgstr ""
+
+#: elementor/steps.php:114 ideapark-antek.php:1043 ideapark-antek.php:1789
+msgid "Image"
+msgstr ""
+
+#: elementor/steps.php:171 elementor/steps.php:175 elementor/steps.php:179
+msgid ""
+"Labore tempore usmod sed incididunt labore et dolore magna aliqua. Ut enim "
+"ad minim veniam quis nostrud."
+msgstr ""
+
+#: elementor/team.php:48 elementor/team.php:104
+msgid "Team Members"
+msgstr ""
+
+#: elementor/team.php:138
+msgid "Choose Photo"
+msgstr ""
+
+#: elementor/team.php:153 ideapark-antek.php:1790 ideapark-antek.php:3472
+#: ideapark-antek.php:3722 includes/class-ideapark-custom-fonts.php:35
+msgid "Name"
+msgstr ""
+
+#: elementor/team.php:155
+msgid "John Doe"
+msgstr ""
+
+#: elementor/team.php:156
+msgid "Enter Name"
+msgstr ""
+
+#: elementor/team.php:164
+msgid "Occupation"
+msgstr ""
+
+#: elementor/team.php:166 elementor/team.php:350 elementor/team.php:354
+#: elementor/team.php:358
+msgid "Manager"
+msgstr ""
+
+#: elementor/team.php:167
+msgid "Enter Occupation"
+msgstr ""
+
+#: elementor/team.php:175
+msgid "Phone"
+msgstr ""
+
+#: elementor/team.php:177
+msgid "Enter Phone Number"
+msgstr ""
+
+#: elementor/team.php:185
+msgid "Email"
+msgstr ""
+
+#: elementor/team.php:187
+msgid "Enter Email"
+msgstr ""
+
+#: elementor/team.php:214
+msgid "Facebook url"
+msgstr ""
+
+#: elementor/team.php:224
+msgid "Instagram url"
+msgstr ""
+
+#: elementor/team.php:234
+msgid "VK url"
+msgstr ""
+
+#: elementor/team.php:244
+msgid "OK url"
+msgstr ""
+
+#: elementor/team.php:254
+msgid "Telegram url"
+msgstr ""
+
+#: elementor/team.php:264
+msgid "Twitter url"
+msgstr ""
+
+#: elementor/team.php:274
+msgid "Whatsapp url"
+msgstr ""
+
+#: elementor/team.php:284
+msgid "YouTube url"
+msgstr ""
+
+#: elementor/team.php:294
+msgid "Vimeo url"
+msgstr ""
+
+#: elementor/team.php:304
+msgid "LinkedIn url"
+msgstr ""
+
+#: elementor/team.php:314
+msgid "Flickr url"
+msgstr ""
+
+#: elementor/team.php:324
+msgid "Tumblr url"
+msgstr ""
+
+#: elementor/team.php:334
+msgid "Github url"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:47
+msgid "Woocommerce carousel"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:104
+msgid "Woocommerce Carousel"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:127
+msgid "Sort by date the product was published"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:128
+msgid "Sort by post ID of the product"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:129
+msgid "Sort by menu order"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:130
+msgid "Sort by number of purchases"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:131
+msgid "Sort by average product rating"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:132
+msgid "Sort by product title"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:140
+msgid "Order"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:227
+msgid "Recent Products"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:228
+msgid "Featured Products"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:229
+msgid "Sale Products"
+msgstr ""
+
+#: elementor/woocommerce-carousel.php:230
+msgid "Best-Selling Products"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:35
+msgid "Wrapper Link"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:42
+msgid "Enable Link"
+msgstr ""
+
+#: elementor/wrapper-link-module.php:72
+msgid "Enable Open In New Window"
+msgstr ""
+
+#: ideapark-antek.php:28
+msgid ""
+"The Antek theme is not activated! This plugin works only with Antek theme"
+msgstr ""
+
+#: ideapark-antek.php:45
+msgid ""
+"The Antek theme version and the theme core plugin version must be the same. "
+"Please update the plugin to version %s"
+msgstr ""
+
+#: ideapark-antek.php:59
+msgid "Badge text"
+msgstr ""
+
+#: ideapark-antek.php:64
+msgid "Attached File (PDF)"
+msgstr ""
+
+#: ideapark-antek.php:69
+msgid "Price for delivery"
+msgstr ""
+
+#: ideapark-antek.php:75
+msgid "Price per month"
+msgstr ""
+
+#: ideapark-antek.php:81
+msgid "Price per week"
+msgstr ""
+
+#: ideapark-antek.php:87
+msgid "Price per day"
+msgstr ""
+
+#: ideapark-antek.php:93 ideapark-antek.php:820 ideapark-antek.php:1549
+#: ideapark-antek.php:1741
+msgid "Location"
+msgstr ""
+
+#: ideapark-antek.php:582
+msgid "Can`t delete default product details!"
+msgstr ""
+
+#: ideapark-antek.php:629 ideapark-antek.php:631
+msgid "Catalog"
+msgstr ""
+
+#: ideapark-antek.php:630
+msgid "Item"
+msgstr ""
+
+#: ideapark-antek.php:664
+msgid "HTML Blocks"
+msgstr ""
+
+#: ideapark-antek.php:665
+msgid "HTML Block"
+msgstr ""
+
+#: ideapark-antek.php:666
+msgid "Static HTML blocks for using in widgets and in templates"
+msgstr ""
+
+#: ideapark-antek.php:709
+msgid "Thumbnail"
+msgstr ""
+
+#: ideapark-antek.php:724 ideapark-antek.php:1757 ideapark-antek.php:3481
+#: ideapark-antek.php:3616 ideapark-antek.php:3793
+msgid "Extra options"
+msgstr ""
+
+#: ideapark-antek.php:725
+msgid "Option"
+msgstr ""
+
+#: ideapark-antek.php:752
+msgid "Max"
+msgstr ""
+
+#: ideapark-antek.php:757 ideapark-antek.php:811
+msgid "You can reorder rows using drag and drop."
+msgstr ""
+
+#: ideapark-antek.php:766
+msgid "Detail"
+msgstr ""
+
+#: ideapark-antek.php:782 ideapark-antek.php:1165
+msgid "Show in list"
+msgstr ""
+
+#: ideapark-antek.php:788 ideapark-antek.php:1174
+msgid "Show on details page"
+msgstr ""
+
+#: ideapark-antek.php:794 ideapark-antek.php:1183
+msgid "Numeric value"
+msgstr ""
+
+#: ideapark-antek.php:819
+msgid "Locations"
+msgstr ""
+
+#: ideapark-antek.php:839
+msgid "Conditions"
+msgstr ""
+
+#: ideapark-antek.php:840 ideapark-antek.php:990 ideapark-antek.php:1513
+msgid "Condition"
+msgstr ""
+
+#: ideapark-antek.php:841
+msgid "Conditional pricing"
+msgstr ""
+
+#: ideapark-antek.php:853
+msgid ""
+"You can reorder rows using drag and drop. The rows above are higher priority."
+msgstr ""
+
+#: ideapark-antek.php:959
+msgid "Description (tooltip)"
+msgstr ""
+
+#: ideapark-antek.php:971
+msgid "Day"
+msgstr ""
+
+#: ideapark-antek.php:972
+msgid "Total"
+msgstr ""
+
+#: ideapark-antek.php:983 ideapark-antek.php:1506
+msgid "Conditional price"
+msgstr ""
+
+#: ideapark-antek.php:985 ideapark-antek.php:1508
+msgid "Manage conditions"
+msgstr ""
+
+#: ideapark-antek.php:996
+msgid "Always included"
+msgstr ""
+
+#: ideapark-antek.php:1002
+msgid "Maximum quantity in one order"
+msgstr ""
+
+#: ideapark-antek.php:1038
+msgid "Categories widget options"
+msgstr ""
+
+#: ideapark-antek.php:1054
+msgid "Select an Icon if the Image is not set"
+msgstr ""
+
+#: ideapark-antek.php:1067
+msgid "Short Description"
+msgstr ""
+
+#: ideapark-antek.php:1093 ideapark-antek.php:1100
+msgid "Header background image"
+msgstr ""
+
+#: ideapark-antek.php:1112
+msgid "HTML block (top)"
+msgstr ""
+
+#: ideapark-antek.php:1113 ideapark-antek.php:1126 ideapark-antek.php:1656
+msgid "Manage html blocks"
+msgstr ""
+
+#: ideapark-antek.php:1118 ideapark-antek.php:1131 ideapark-antek.php:1661
+msgid "Select a HTML block"
+msgstr ""
+
+#: ideapark-antek.php:1125
+msgid "HTML block (bottom)"
+msgstr ""
+
+#: ideapark-antek.php:1138
+msgid "Show HTML blocks only on the first page "
+msgstr ""
+
+#: ideapark-antek.php:1146
+msgid "Show top block above the sidebar"
+msgstr ""
+
+#: ideapark-antek.php:1192
+msgid "Unit of measurement"
+msgstr ""
+
+#: ideapark-antek.php:1193
+msgid "For numeric value only"
+msgstr ""
+
+#: ideapark-antek.php:1209
+msgid "Address"
+msgstr ""
+
+#: ideapark-antek.php:1236
+msgid "Selected days (from)"
+msgstr ""
+
+#: ideapark-antek.php:1237
+msgid ""
+"The condition is triggered if the user has selected a given number of days "
+"or more in the calendar"
+msgstr ""
+
+#: ideapark-antek.php:1247
+msgid "Selected days (to)"
+msgstr ""
+
+#: ideapark-antek.php:1248
+msgid "This is not used if nothing is entered"
+msgstr ""
+
+#: ideapark-antek.php:1258
+msgid "From date"
+msgstr ""
+
+#: ideapark-antek.php:1259 ideapark-antek.php:1272
+msgid "This is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1271
+msgid "To date"
+msgstr ""
+
+#: ideapark-antek.php:1284
+msgid "First days"
+msgstr ""
+
+#: ideapark-antek.php:1285
+msgid ""
+"Triggered for a specified number of days from the beginning of the selected "
+"range. This is not used if nothing is entered."
+msgstr ""
+
+#: ideapark-antek.php:1294
+msgid "Fixed price"
+msgstr ""
+
+#: ideapark-antek.php:1295
+msgid ""
+"The price of all days meeting this condition will be fixed, regardless of "
+"the number of days. Together with the \"First days\" option, it can be used "
+"to set a fixed cost for the first N days of the rent. This condition only "
+"works for rented products."
+msgstr ""
+
+#: ideapark-antek.php:1303
+msgid "Weekdays"
+msgstr ""
+
+#: ideapark-antek.php:1304
+msgid "The weekdays filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1312 ideapark-antek.php:3477 ideapark-antek.php:3560
+#: ideapark-antek.php:3742
+msgid "Days"
+msgstr ""
+
+#: ideapark-antek.php:1313
+msgid "The days filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1322
+msgid "Months"
+msgstr ""
+
+#: ideapark-antek.php:1323
+msgid "The months filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1331
+msgid "Years"
+msgstr ""
+
+#: ideapark-antek.php:1332
+msgid "The years filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1340
+msgid "Pickup location"
+msgstr ""
+
+#: ideapark-antek.php:1341
+msgid "The location filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1350
+msgid "The categories filter is not used if nothing is selected"
+msgstr ""
+
+#: ideapark-antek.php:1388 ideapark-antek.php:3302
+msgid "Booking"
+msgstr ""
+
+#: ideapark-antek.php:1402
+msgid "Reserve range"
+msgstr ""
+
+#: ideapark-antek.php:1409
+msgid "Remove reservation"
+msgstr ""
+
+#: ideapark-antek.php:1420
+msgid "Stock quantity"
+msgstr ""
+
+#: ideapark-antek.php:1421
+msgid "Empty → unlimited booking"
+msgstr ""
+
+#: ideapark-antek.php:1428
+msgid "Stock management"
+msgstr ""
+
+#: ideapark-antek.php:1477
+msgid "Price on request"
+msgstr ""
+
+#: ideapark-antek.php:1484
+msgid "Custom price"
+msgstr ""
+
+#: ideapark-antek.php:1485
+msgid ""
+"The text that will be displayed instead of the price in the product grid"
+msgstr ""
+
+#: ideapark-antek.php:1494
+msgid "Change price type to Day/Week/Month"
+msgstr ""
+
+#: ideapark-antek.php:1494
+msgid "Change price type to Conditional"
+msgstr ""
+
+#: ideapark-antek.php:1536
+msgid "Empty → without delivery, 0 → free delivery"
+msgstr ""
+
+#: ideapark-antek.php:1542
+msgid "Custom delivery price<br>depending on location"
+msgstr ""
+
+#: ideapark-antek.php:1543
+msgid "0 → free delivery,"
+msgstr ""
+
+#: ideapark-antek.php:1558
+msgid "Calculation of delivery"
+msgstr ""
+
+#: ideapark-antek.php:1564
+msgid "(rent + delivery) * quantity"
+msgstr ""
+
+#: ideapark-antek.php:1565
+msgid "rent * quantity + delivery"
+msgstr ""
+
+#: ideapark-antek.php:1600
+msgid "Badge custom color"
+msgstr ""
+
+#: ideapark-antek.php:1609
+msgid "Pricing"
+msgstr ""
+
+#: ideapark-antek.php:1645
+msgid "HTML block"
+msgstr ""
+
+#: ideapark-antek.php:1651
+msgid "Enter the block title or leave empty"
+msgstr ""
+
+#: ideapark-antek.php:1671
+msgid "Image Gallery"
+msgstr ""
+
+#: ideapark-antek.php:1688
+msgid "Product Video"
+msgstr ""
+
+#: ideapark-antek.php:1694
+msgid "Video URL"
+msgstr ""
+
+#: ideapark-antek.php:1695
+msgid "Enter the url to product video (Youtube, Vimeo etc.)."
+msgstr ""
+
+#: ideapark-antek.php:1700
+msgid "Video Thumbnail"
+msgstr ""
+
+#: ideapark-antek.php:1702
+msgid "Leave blank to use the standard thumbnail from youtube."
+msgstr ""
+
+#: ideapark-antek.php:1793
+msgid "Stock"
+msgstr ""
+
+#: ideapark-antek.php:1797
+msgid "Delivery"
+msgstr ""
+
+#: ideapark-antek.php:1799
+msgid "Badge"
+msgstr ""
+
+#: ideapark-antek.php:1800
+msgid "Date"
+msgstr ""
+
+#: ideapark-antek.php:1823 ideapark-antek.php:1825
+msgid "Rental"
+msgstr ""
+
+#: ideapark-antek.php:1841
+msgid "Unlimited"
+msgstr ""
+
+#: ideapark-antek.php:1849
+msgid "Request"
+msgstr ""
+
+#: ideapark-antek.php:1860
+msgid "free"
+msgstr ""
+
+#: ideapark-antek.php:1860
+msgid "no"
+msgstr ""
+
+#: ideapark-antek.php:1909 ideapark-antek.php:6012
+msgid "Share on Facebook"
+msgstr ""
+
+#: ideapark-antek.php:1910 ideapark-antek.php:6013
+msgid "Share on Twitter"
+msgstr ""
+
+#: ideapark-antek.php:1911 ideapark-antek.php:6014
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: ideapark-antek.php:1912 ideapark-antek.php:6015
+msgid "Share on Whatsapp"
+msgstr ""
+
+#: ideapark-antek.php:1917
+msgid "Share"
+msgstr ""
+
+#: ideapark-antek.php:2146 ideapark-antek.php:2211
+msgid "Delivery is not available at this location"
+msgstr ""
+
+#: ideapark-antek.php:2153 ideapark-antek.php:2218
+msgid "%s is not available for pick up"
+msgstr ""
+
+#: ideapark-antek.php:2160 ideapark-antek.php:2225
+msgid "%s is not available for drop off"
+msgstr ""
+
+#: ideapark-antek.php:2743 ideapark-antek.php:2752
+msgid "Reserved"
+msgstr ""
+
+#: ideapark-antek.php:2750
+msgid "Order #"
+msgstr ""
+
+#: ideapark-antek.php:2774
+msgid "Booked:"
+msgstr ""
+
+#: ideapark-antek.php:2789
+msgid "Available:"
+msgstr ""
+
+#: ideapark-antek.php:3020 ideapark-antek.php:4101
+msgid "Select available range"
+msgstr ""
+
+#: ideapark-antek.php:3088
+msgid "Pick up location is not available"
+msgstr ""
+
+#: ideapark-antek.php:3098
+msgid "Drop off location is not available"
+msgstr ""
+
+#: ideapark-antek.php:3160 ideapark-antek.php:3163
+msgid "Booking is not available now"
+msgstr ""
+
+#: ideapark-antek.php:3189
+msgid "These days are not available for booking"
+msgstr ""
+
+#: ideapark-antek.php:3286
+msgid "Rentals"
+msgstr ""
+
+#: ideapark-antek.php:3307
+msgid "Product for making a reservation"
+msgstr ""
+
+#: ideapark-antek.php:3473 ideapark-antek.php:3550 ideapark-antek.php:3725
+msgid "Start date"
+msgstr ""
+
+#: ideapark-antek.php:3474 ideapark-antek.php:3555 ideapark-antek.php:3728
+msgid "Finish date"
+msgstr ""
+
+#: ideapark-antek.php:3475 ideapark-antek.php:3731 ideapark-antek.php:5321
+msgid "Pick-up time"
+msgstr ""
+
+#: ideapark-antek.php:3476 ideapark-antek.php:3735 ideapark-antek.php:5322
+msgid "Drop-off time"
+msgstr ""
+
+#: ideapark-antek.php:3477 ideapark-antek.php:3560 ideapark-antek.php:3742
+msgid "Nights"
+msgstr ""
+
+#: ideapark-antek.php:3478 ideapark-antek.php:3568 ideapark-antek.php:3745
+msgid "Where"
+msgstr ""
+
+#: ideapark-antek.php:3479 ideapark-antek.php:3575 ideapark-antek.php:3745
+msgid "Pick up"
+msgstr ""
+
+#: ideapark-antek.php:3480 ideapark-antek.php:3580 ideapark-antek.php:3773
+msgid "Drop off"
+msgstr ""
+
+#: ideapark-antek.php:3482 ideapark-antek.php:3739
+msgid "Original dates"
+msgstr ""
+
+#: ideapark-antek.php:3483
+msgid "Quantity"
+msgstr ""
+
+#: ideapark-antek.php:3529
+msgid "Change start date"
+msgstr ""
+
+#: ideapark-antek.php:3588
+msgid "Rent"
+msgstr ""
+
+#: ideapark-antek.php:3749
+msgid "Pick-up address"
+msgstr ""
+
+#: ideapark-antek.php:3757
+msgid "Drop-off address"
+msgstr ""
+
+#: ideapark-antek.php:3881 ideapark-antek.php:3889
+msgid "These days %s - %s are not available for booking"
+msgstr ""
+
+#: ideapark-antek.php:3923 ideapark-antek.php:3930
+msgid "The day %s is not available for booking in such quantity"
+msgstr ""
+
+#: ideapark-antek.php:5599 ideapark-antek.php:5640
+msgid ""
+"The database already has the same condition \"%s\". Change the condition "
+"parameters, or delete the duplicate."
+msgstr ""
+
+#: ideapark-antek.php:5821
+msgid ""
+"You have not registered the theme yet! Please <a href=\"%1$s\">enter your "
+"purchase code</a> or <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: importer/data_1/home-2.php:23
+msgid "Red"
+msgstr ""
+
+#: importer/data_1/home-3.php:32
+msgid "Green"
+msgstr ""
+
+#: importer/importer.php:97
+msgid "Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:112
+msgid "Please wait..."
+msgstr ""
+
+#: importer/importer.php:113
+msgid "Are you sure you want to import?"
+msgstr ""
+
+#: importer/importer.php:114
+msgid "Importing ..."
+msgstr ""
+
+#: importer/importer.php:115 importer/importer.php:250
+msgid "Progress"
+msgstr ""
+
+#: importer/importer.php:116
+msgid "Output Error"
+msgstr ""
+
+#: importer/importer.php:142 importer/importer.php:204
+msgid "One-Click Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:208
+msgid "Select the demo site you want to import: "
+msgstr ""
+
+#: importer/importer.php:215
+msgid "Preview Demo"
+msgstr ""
+
+#: importer/importer.php:232
+msgid "Select the data you want to import: "
+msgstr ""
+
+#: importer/importer.php:234
+msgid "All data"
+msgstr ""
+
+#: importer/importer.php:237
+msgid "Fonts"
+msgstr ""
+
+#: importer/importer.php:240
+msgid "Slider Revolution"
+msgstr ""
+
+#: importer/importer.php:244
+msgid "Options"
+msgstr ""
+
+#: importer/importer.php:247
+msgid "Import attachments"
+msgstr ""
+
+#: importer/importer.php:249
+msgid "Import"
+msgstr ""
+
+#: importer/importer.php:250
+msgid "Prepare data..."
+msgstr ""
+
+#: importer/importer.php:252
+msgid "Important notes:"
+msgstr ""
+
+#: importer/importer.php:253
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+
+#: importer/importer.php:254
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: importer/importer.php:255
+msgid ""
+"We recommend you to <a href=\"%s\" target=\"_blank\">reset data</a> & clean "
+"wp-content/uploads folder before import to prevent duplicate content."
+msgstr ""
+
+#: importer/importer.php:258
+msgid ""
+"Downloading remote files is prohibited in PHP (allow_url_fopen in php.ini)"
+msgstr ""
+
+#: importer/importer.php:260
+msgid ""
+"If you have problems importing images, then run a test to get information "
+"about the error"
+msgstr ""
+
+#: importer/importer.php:260
+msgid "download test"
+msgstr ""
+
+#: importer/importer.php:279
+msgid "Download test failed"
+msgstr ""
+
+#: importer/importer.php:281
+msgid "Download test completed successfully"
+msgstr ""
+
+#: importer/importer.php:288
+msgid "Available only to registered theme"
+msgstr ""
+
+#: importer/importer.php:289
+msgid "Register theme"
+msgstr ""
+
+#: importer/importer.php:293
+msgid "Export"
+msgstr ""
+
+#: importer/importer.php:296
+msgid "No themes data found."
+msgstr ""
+
+#: importer/importer.php:297
+msgid "Try adding this code to the beginning of the file wp-config.php:"
+msgstr ""
+
+#: importer/importer.php:329 importer/importer.php:1185
+#: importer/importer.php:1192
+msgid "Error: Permission denied"
+msgstr ""
+
+#: importer/importer.php:352
+msgid "Error: Can`t open file: "
+msgstr ""
+
+#: importer/importer.php:410 importer/importer.php:414
+#: importer/importer.php:464
+msgid "Error: Select the data you want to import"
+msgstr ""
+
+#: importer/importer.php:469
+msgid "Error: Selected data is empty"
+msgstr ""
+
+#: importer/importer.php:531
+msgid "Prepared data successfully"
+msgstr ""
+
+#: importer/importer.php:541
+msgid "Imported terms successfully"
+msgstr ""
+
+#: importer/importer.php:550
+msgid "Imported post data successfully"
+msgstr ""
+
+#: importer/importer.php:563
+msgid "Imported options successfully"
+msgstr ""
+
+#: importer/importer.php:572
+msgid "Imported fonts successfully"
+msgstr ""
+
+#: importer/importer.php:581
+msgid "Imported widgets successfully"
+msgstr ""
+
+#: importer/importer.php:606
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+
+#: importer/importer.php:609
+msgid "Data import completed!"
+msgstr ""
+
+#: importer/importer.php:609
+msgid "Re-save the site permalinks! "
+msgstr ""
+
+#: importer/importer.php:616
+msgid "Error: step not found: "
+msgstr ""
+
+#: importer/importer.php:646 importer/importer.php:656
+msgid ""
+"Error: No access to data folder. Try to add line "
+"\"define('FS_METHOD','direct');\" to the file wp-config.php"
+msgstr ""
+
+#: importer/importer.php:648 importer/importer.php:658
+msgid "Error: Uploads folder must be writable - "
+msgstr ""
+
+#: importer/importer.php:826
+msgid "Error: file not found: "
+msgstr ""
+
+#: importer/importer.php:962
+msgid "Imported Slider Revolution successfully"
+msgstr ""
+
+#: importer/importer.php:966
+msgid "The plugin Slider Revolution is not installed"
+msgstr ""
+
+#: importer/importer.php:969
+msgid "There are no slides in this demo"
+msgstr ""
+
+#: importer/importer.php:1212
+msgid "The demo data has been exported successfully!"
+msgstr ""
+
+#: importer/parsers.php:43 importer/parsers.php:77 importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/parsers.php:89 importer/parsers.php:94 importer/parsers.php:312
+#: importer/parsers.php:499
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:37
+msgid "Importing media files"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:55
+msgid "Importing posts"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:68
+msgid "Importing nav menus"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:77
+msgid "Error importing the post #"
+msgstr ""
+
+#: importer/wordpress-importer-extend.php:113
+msgid "File content.xml not found"
+msgstr ""
+
+#: importer/wordpress-importer.php:135 importer/wordpress-importer.php:144
+#: importer/wordpress-importer.php:194 importer/wordpress-importer.php:199
+#: importer/wordpress-importer.php:209
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/wordpress-importer.php:136
+msgid "The file %s does not exist, please try again."
+msgstr ""
+
+#: importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: importer/wordpress-importer.php:200
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/wordpress-importer.php:218
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/wordpress-importer.php:243
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/wordpress-importer.php:270
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/wordpress-importer.php:271
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: importer/wordpress-importer.php:273
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/wordpress-importer.php:283
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:287
+msgid "Download and import file attachments"
+msgstr ""
+
+#: importer/wordpress-importer.php:292
+msgid "Submit"
+msgstr ""
+
+#: importer/wordpress-importer.php:306
+msgid "Import author:"
+msgstr ""
+
+#: importer/wordpress-importer.php:320
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/wordpress-importer.php:323
+msgid "as a new user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:331
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:333
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/wordpress-importer.php:338
+msgid "- Select -"
+msgstr ""
+
+#: importer/wordpress-importer.php:393
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/wordpress-importer.php:452
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:502
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:566 importer/wordpress-importer.php:815
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:663
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:703 importer/wordpress-importer.php:947
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/wordpress-importer.php:777
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/wordpress-importer.php:1006
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/wordpress-importer.php:1015
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1116
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/wordpress-importer.php:1186
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/wordpress-importer.php:1193
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1201
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/wordpress-importer.php:1207
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/wordpress-importer.php:1214
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/wordpress-importer.php:1323
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/wordpress-importer.php:1330
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/wordpress-importer.php:1345
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: importer/wordpress-importer.php:1346
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:25
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:40
+msgid "Font .woff2"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:45
+msgid "Font .woff"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:50
+msgid "Font .ttf"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:55
+msgid "Font .svg"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:60
+msgid "Font .otf"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:65
+msgid "Font Display"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:70
+msgid "Auto"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:71
+msgid "Block"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:72
+msgid "Swap"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:73
+msgid "Fallback"
+msgstr ""
+
+#: includes/class-ideapark-custom-fonts.php:74
+msgid "Optional"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:80
+msgid "Add New"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:81
+#: includes/class-ideapark-taxonomy.php:93
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:82
+#: includes/class-ideapark-taxonomy.php:91
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:83
+#: includes/class-ideapark-taxonomy.php:94
+msgid "New %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:84
+#: includes/class-ideapark-taxonomy.php:87
+msgid "All %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:85
+#: includes/class-ideapark-taxonomy.php:88
+msgid "View %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:86
+#: includes/class-ideapark-taxonomy.php:86
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:87
+msgid "No %s Found"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:88
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:89
+#: includes/class-ideapark-taxonomy.php:89
+#: includes/class-ideapark-taxonomy.php:90
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:133
+msgid "%1$s updated. %2$sView %3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:134
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:135
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:136
+msgid "%1$s updated."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:137
+msgid "%1$s restored to revision from %2$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:138
+msgid "%1$s published. %2$sView %3$s%4s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:139
+msgid "%1$s saved."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:140
+msgid "%1$s submitted. %2$sPreview post%3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:141
+msgid "%1$s scheduled for: %2$s. %3$sPreview %4$s%5$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:141
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:142
+msgid "%1$s draft updated. %2$sPreview %3$s%4$s."
+msgstr ""
+
+#: includes/class-ideapark-post-type.php:159
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:160
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:161
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:162
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-post-type.php:163
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ideapark-taxonomy.php:92
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-rwmb.php:16
+msgid "Select a Condition"
+msgstr ""
+
+#: includes/class-rwmb.php:53
+msgid "Select a Location"
+msgstr ""
+
+#: includes/mb-settings-page/src/BackupField.php:20
+msgid ""
+"To export settings, copy the content of this field and save to a file. To "
+"import settings, paste the content of the backup file here."
+msgstr ""
+
+#: includes/mb-settings-page/src/Factory.php:45
+msgid "Save Settings"
+msgstr ""
+
+#: includes/mb-settings-page/src/Factory.php:46
+msgid "Settings saved."
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:141
+msgid "Remove"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:335
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/meta-box-group/group-field.php:335
+msgid "Entry"
+msgstr ""
+
+#: includes/term-meta/class-mb-term-meta-box.php:89
+msgid "Term added."
+msgstr ""
+
+#: widgets/filter-detail-widget.php:13
+msgid "A widget that displays a numeric detail filter"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:29
+msgid "Antek Detail Filter"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:126 widgets/filter-price-widget.php:146
+msgid "Range from %s to %s"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:167 widgets/filter-price-widget.php:184
+#: widgets/filter-types-widget.php:139 widgets/latest-posts-widget.php:89
+msgid "Title:"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:176
+msgid "Filter by detail (numeric type only):"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:180
+msgid "- select detail -"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:190 widgets/filter-price-widget.php:194
+msgid "Slider step:"
+msgstr ""
+
+#: widgets/filter-detail-widget.php:194 widgets/filter-price-widget.php:198
+msgid "- select step -"
+msgstr ""
+
+#: widgets/filter-price-widget.php:13
+msgid "A widget that displays a Price Filter"
+msgstr ""
+
+#: widgets/filter-price-widget.php:29
+msgid "Antek Price Filter"
+msgstr ""
+
+#: widgets/filter-reset-widget.php:13
+msgid "A widget that displays a filter reset button"
+msgstr ""
+
+#: widgets/filter-reset-widget.php:17
+msgid "Antek Reset Filter"
+msgstr ""
+
+#: widgets/filter-reset-widget.php:52
+msgid "Reset all filters"
+msgstr ""
+
+#: widgets/filter-types-widget.php:13
+msgid "A widget that displays a Type filter"
+msgstr ""
+
+#: widgets/filter-types-widget.php:17
+msgid "Antek Type Filter"
+msgstr ""
+
+#: widgets/filter-types-widget.php:80
+msgid "All types"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:8
+msgid "The recent posts with thumbnails"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:12
+msgid "Antek Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:56
+msgid "Posted:"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:82
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:93
+msgid "Filter by Category:"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:95
+msgid "All categories"
+msgstr ""
+
+#: widgets/latest-posts-widget.php:104
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Antek Core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Core plugin for Antek theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "parkofideas.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://parkofideas.com"
+msgstr ""

@@ -4,7 +4,7 @@ Tags: online store, ecommerce, shop, shopping cart, sell online
 Requires at least: 6.8
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 10.5.0
+Stable tag: 10.6.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -170,14 +170,13 @@ WooCommerce comes with some sample data you can use to see how products look; im
 
 == Changelog ==
 
-= 10.5.1 2026-02-10 =
+= 10.6.1 2026-03-12 =
 
 **WooCommerce**
 
-* Fix - Admin: revert to the previous version of the recent reviews widget, as errors have been reported in some setups. [#63195](https://github.com/woocommerce/woocommerce/pull/63195)
-* Fix - Fix issue that caused the shop page not to show up in Divi under certain circumstances [#63205](https://github.com/woocommerce/woocommerce/pull/63205)
-* Fix - Only disable add-to-cart button in variable products when wc-add-to-cart-variation is enqueued [#63194](https://github.com/woocommerce/woocommerce/pull/63194)
-* Enhancement - Add additional validation in the PayPal Standard shipping callback method. [#63193](https://github.com/woocommerce/woocommerce/pull/63193)
+* Fix - Add to Cart: fix validation of attributes with multi-word names [#63647](https://github.com/woocommerce/woocommerce/pull/63647)
+* Fix - Place newly installed payment gateways above offline payment methods instead of at the bottom of the list. [#63648](https://github.com/woocommerce/woocommerce/pull/63648)
+* Fix - Show shipping package title as "Shipment" instead of "Shipment 1" [#63649](https://github.com/woocommerce/woocommerce/pull/63649)
 
 
 [See changelog for all versions](https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt).

@@ -86,6 +86,8 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', true );
 define( 'DISALLOW_FILE_EDIT', true );
 define( 'DISABLE_WP_CRON' , true );
+define('WP_MEMORY_LIMIT', '512M');
+define('WP_MAX_MEMORY_LIMIT', '512M');
 
 
 /* Add any custom values between this line and the "stop editing" line. */

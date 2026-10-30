@@ -93,7 +93,7 @@ define( 'DISABLE_WP_CRON' , true );
 
 
 define( 'FS_METHOD', 'direct' );
-define( 'WP_AUTO_UPDATE_CORE', true );
+define( 'WP_AUTO_UPDATE_CORE', false );
 define( 'DISALLOW_FILE_EDIT', true );
 define( 'DISABLE_WP_CRON' , true );
 /* That's all, stop editing! Happy publishing. */

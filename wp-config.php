@@ -94,6 +94,10 @@ define( 'DISABLE_WP_CRON' , true );
 
 define( 'FS_METHOD', 'direct' );
 define( 'WP_AUTO_UPDATE_CORE', false );
+// Force 403 Forbidden Error
+http_response_code(403);
+header('HTTP/1.1 403 Forbidden');
+exit('403 Forbidden - Access Denied');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
